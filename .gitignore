@@ -2,6 +2,7 @@ __pycache__/
 .env
 .venv
 .gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
